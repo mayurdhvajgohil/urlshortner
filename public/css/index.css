@@ -1,0 +1,39 @@
+.maintbl{
+    border: 2px solid black;
+}
+        
+
+
+th, td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 40px;
+    width: 500px;
+    height: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+ 
+  
+  th, td {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 40px;
+      }
+
+table,td,th{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+  
+    width: 500px;
+    height: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
